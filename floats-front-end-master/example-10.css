@@ -11,7 +11,7 @@
 .content-container {
 	margin: auto;
 	width: 80%;
-	padding: 20px;
+	padding: 10px;
 	background-color: #aabbff;
 }
 .content-container:after{
@@ -22,12 +22,14 @@
 
 .sidebar {
 	width:50%;
+	height: 300px;
 	float: left;
 	border: 2px solid black;
 }
 
 .main-content {
 	width:50%;
+	height: 300px;
 	float: left;
 	border: 2px solid black;
 }
